@@ -1,0 +1,8 @@
+font-family = JetBrainsMonoNerdFont
+font-size = 14.0
+theme = GruvboxDark
+window-decoration = false
+shell-integration = zsh
+keybind = ctrl+;=toggle_window_decorations
+window-height = 25
+window-width = 100
